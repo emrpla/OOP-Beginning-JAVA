@@ -1,2 +1,2 @@
-# OOP-Beginning-JAVA-
-This repository contains some basic topics from OOP
+# OOP-Beginning-JAVA
+- This repository contains some basic topics from OOP
